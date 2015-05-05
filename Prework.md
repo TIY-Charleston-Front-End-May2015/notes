@@ -37,9 +37,9 @@ HTML and CSS are the foundation of all the content of a webpage or web app. Howe
 Complete the Code Academy Web course at http://www.codecademy.com/en/tracks/web, which covers HTML and CSS. This should take you approximately 8-15 hours, depending on your prior experience.
 
 ## Javascript
-As a front end engineer, javascript is the hammer and nail in your developer toolbelt.  It will allow you to create beautiful things not only the web, but increasingly everywhere in the programming world. To gain a better understanding of variables, conditionals, and loops, complete the following two courses (roughly 5-15 hours depending on comfort)
+As a front end engineer, javascript is the hammer and nail in your developer toolbelt.  It will allow you to create beautiful things not only on the web, but increasingly everywhere in the programming world. To gain a better understanding of variables, conditionals, and loops, complete the following two courses (roughly 5-15 hours depending on comfort)
 
-1. [Code Academy Web course](http://www.codecademy.com/en/tracks/javascript) Complete through the "Control Flow" section.
+1. [Codecademy Web course](http://www.codecademy.com/en/tracks/javascript) Complete through the "Control Flow" section.
 
 2. [Code School Web course](https://www.codeschool.com/courses/javascript-road-trip-part-1) Complete through Level 3.
 
