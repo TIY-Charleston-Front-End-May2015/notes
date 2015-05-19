@@ -217,10 +217,10 @@ section, aside {
  float: left;
 }
 section {
- width: 32%;
+ width: 69%;
 }
 aside {
- width: 14%;
+ width: 30%;
 }
 
 ```
