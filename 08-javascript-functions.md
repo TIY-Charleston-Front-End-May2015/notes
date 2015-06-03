@@ -167,6 +167,7 @@ You might think this will print out 0,1,2,3,4... but it won't! Why not? because 
 arr.forEach(function(_,index) {
   console.log(index);
 });
+```
 
 You need to set a place holder for the argument you are not using.  Otherwise, javascript will expect that you want to use the element.
 
