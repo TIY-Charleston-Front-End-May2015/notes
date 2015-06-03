@@ -175,9 +175,9 @@ That's all for today! We will get into more javascript functions tomorrow. Happy
 
 #Resources
 
-[MDN - Functions][https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions]
-[Expression vs Declaration][https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/]
+[MDN - Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
+[Expression vs Declaration](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
 [For-Loops](http://webcheatsheet.com/javascript/loops.php)
-[MDN - forEach][https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach]
+[MDN - forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
 
