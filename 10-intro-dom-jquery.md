@@ -1,4 +1,4 @@
-# Day 9 - Intro to the DOM api w/ native js and jQuery
+# Day 10 - Intro to the DOM api w/ native js and jQuery
 
 And the fun continues!
 
