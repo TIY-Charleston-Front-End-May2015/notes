@@ -228,3 +228,7 @@ Don't know about you, but if I were working on a codebase, and I saw the first v
 
 Pretty neat, huh? But what if we want have some posts load before you ever submit one... or even better if we want to grab the data from another url? We'll talk about that next time, with AJAX.
 
+##Resources
+
++ [Using Objects to Refactor Your Code](http://rmurphey.com/blog/2009/10/15/using-objects-to-organize-your-code/)
++ [Working With Objects - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
