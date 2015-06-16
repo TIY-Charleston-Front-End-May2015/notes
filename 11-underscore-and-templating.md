@@ -173,7 +173,7 @@ We took the restaurantTemplate, and we fed it the first object in our restaurant
 
 That's it.  Now it will loop over each of our restaurants, then append the render `restaurantTemplate(elm)` to `$('.restaurants')`.  Awesome how that works. If we had an external call to Yelp, or to reddit, or to a database that people were inputting their own restaurants and ratings, we wouldn't have to update the HTML every time wtih the new restaurants.  Underscore will do that for us.  MAGIC!
 
-Next time, we'll get into $.getJSON to show how it'll magically update by itself.
+Next time, we'll get into $.ajax to show how it'll magically update by itself.
 
 Until next time,
 
